@@ -1,0 +1,10 @@
+com\studenttracker\model\Task.class
+com\studenttracker\util\DatabaseUtil.class
+com\studenttracker\model\User.class
+com\studenttracker\dao\UserDAO.class
+com\studenttracker\servlet\TaskServlet.class
+com\studenttracker\model\Task$TaskType.class
+com\studenttracker\model\Task$TaskStatus.class
+com\studenttracker\servlet\AuthServlet.class
+com\studenttracker\dao\TaskDAO.class
+com\studenttracker\util\SecurityUtil.class
